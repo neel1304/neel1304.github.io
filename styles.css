@@ -38,6 +38,10 @@ p {
   text-decoration: none;
   display: inline-block;
   font-size: 12px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 30px;
 }
 .fa {
   padding: 10px;
