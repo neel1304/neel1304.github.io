@@ -1,0 +1,101 @@
+html {
+  display: flex;
+  height: 100%;
+}
+
+h3 {
+
+  font-size: 70px;
+  color: gray;
+  margin: 0;
+  line-height: 70px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-left: 400px;
+  margin-bottom: 20px;
+  margin-top: 200px;
+}
+h3
+{
+    text-align: center;
+}
+p
+{
+  font-weight: 400;
+  height: 20px;
+  color:#A9A9A9;
+  margin-left: 400px;
+  margin-top: 20px;
+  margin-bottom:20px;
+}
+.btn
+{
+  border-radius: 90px;
+}
+.btn
+{
+  background-color: #ABABAB;
+  color:black;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin-left: 600px;
+  margin-top: 20px;
+}
+.fa {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 30px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #ABABAB;
+  color: black;
+  margin-top: 20px;
+  margin-left:590px;
+  margin-right:10px;
+}
+.fa-twitter {
+  background: #ABABAB;
+  color: black;
+  margin-top: 30px;
+  margin-left:3px;
+}
+.fa-github {
+  background: #ABABAB;
+  color: black;
+  margin-top: 30px;
+  margin-left:3px;
+}
+.fa-quora {
+  background: #ABABAB;
+  color: black;
+  margin-top: 20px;
+  margin-left:590px;
+  margin-right:10px;
+}
+.fa-medium {
+  background: #ABABAB;
+  color: black;
+  margin-left: 10px;
+}
+.fa-linkedin {
+  background: #ABABAB;
+  color: black;
+  margin-left: 10px;
+}
